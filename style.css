@@ -127,6 +127,9 @@
     font-style: italic;
     justify-content: center;
   }
+.back-link a{
+  text-decoration: none;
+}
 
 .back-link:before {
   content: "←";
